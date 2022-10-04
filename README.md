@@ -1,1 +1,1 @@
-# template-ssatr-master
+# Repository git teme SSATR IAISC si ICAF Master Anul 2
